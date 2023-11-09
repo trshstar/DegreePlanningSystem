@@ -1,7 +1,7 @@
 # DegreePlanningSystem
 Degree Planning System Final Project for COSC 2436
 
-repl.it <a href="https://replit.com/@trshstar/Degree-Planning-System">dskdls</a>
+<a href="https://replit.com/@trshstar/Degree-Planning-System">repl.it</a>
 
 Has menu options with options to -
 1) View a list of students and their information
